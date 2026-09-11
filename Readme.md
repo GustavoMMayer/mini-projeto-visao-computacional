@@ -4,10 +4,8 @@
 Mini-projeto desenvolvido como atividade avaliativa do Módulo 2 — Semana 07, utilizando técnicas de Visão Computacional clássica com OpenCV e Aprendizado Profundo com TensorFlow/Keras.
 
 ---
-
 ## 📹 Vídeo de Apresentação
-* **Link da gravação:** [LINKKKKKKKKKKKKKKKK]
-
+* **Link da gravação:** [https://drive.google.com/file/d/1YXvKie4PPN5v_bL7pCEpF-k1qHJKJefu/view?usp=sharing](https://drive.google.com/file/d/1YXvKie4PPN5v_bL7pCEpF-k1qHJKJefu/view?usp=sharing)
 ---
 
 ## 1. Objetivo
